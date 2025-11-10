@@ -1,2 +1,1 @@
-
-This is my first repository created as part of a GitHub Learning Task.
+This is my first repository created as part of a GitHub Learning Task
