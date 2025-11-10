@@ -1,2 +1,2 @@
-# MyFirstRepo
-Practice repo for GitHub learning task 
+
+This is my first repository created as part of a GitHub Learning Task.
